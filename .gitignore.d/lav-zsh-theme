@@ -1,0 +1,4 @@
+*
+!/.gitignore.d
+!/.gitignore.d/lav-zsh-theme
+!/.oh-my-zsh/themes/lav.zsh-theme
